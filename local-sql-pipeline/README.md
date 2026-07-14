@@ -1,6 +1,6 @@
 # Local SQL Pipeline
 
-Pipeline mínimo de lectura/escritura sobre SQL Server aplicando buenas prácticas de data engineering: configuración externalizada, contenedores, tests y CI.
+Pipeline mínimo de lectura/escritura sobre SQL Server aplicando buenas prácticas de data engineering: configuración externalizada, contenedores, tests y CI. (Para estudio personal)
 
 ## Arquitectura
 
