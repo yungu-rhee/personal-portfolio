@@ -1,0 +1,13 @@
+# Configuración local (contiene credenciales)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
